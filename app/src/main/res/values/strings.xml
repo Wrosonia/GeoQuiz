@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="question_rica">San Jose is the capital of Costa Rica.</string>
+    <string name="question_nigeria">Nigeria is the largest country in Africa.</string>
+    <string name="question_latAm">The world\'s highest waterfall is located in Venezuela. </string>
+    <string name="question_meter">Only the United States does not follow the metric system. </string>
+    <string name="question_euro">The second largest island in Europe is Greenland.</string>
+    <string name="question_nor">Norway has the longest coastline in all of Europe. </string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgement_toast">Cheating is wrong. >:-(</string>
+</resources>
